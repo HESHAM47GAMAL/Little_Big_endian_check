@@ -2,7 +2,7 @@
 <h1> What is endianness ?</h1>
 
 > ways of storing multibyte data-types ( int, float, etc) and there are two ways:
-> 1.little endian 
+> <br />1.little endian 
 > 2.big endian
 
 <div align="center">
